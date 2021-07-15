@@ -1,0 +1,2 @@
+rootProject.name = "MVVM BOXOTOP"
+include ':app'
